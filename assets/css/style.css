@@ -201,6 +201,11 @@ strong {
     max-width: 100%;
 }
 
+code {
+    font-weight: bold;
+    font-size: 16px;
+}
+
 /* figure img {
     height: 600px;
 }
